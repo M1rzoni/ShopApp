@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682148896783",
+    "project_id": "rma-2-mirza-sabanovic",
+    "storage_bucket": "rma-2-mirza-sabanovic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682148896783:android:a5cbf99d370aec9f7e837a",
+        "android_client_info": {
+          "package_name": "com.example.rma_2_mirza_sabanovic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyU48gtQG-dTMI6HeQuOWZIlqTwfdOBAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
