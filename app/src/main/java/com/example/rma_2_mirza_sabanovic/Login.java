@@ -43,6 +43,7 @@ public class Login extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if (!validateUsername() | !validatePassword()){
+
                 }
                 else {
                     checkUser();
@@ -54,8 +55,6 @@ public class Login extends AppCompatActivity {
             Intent intent = new Intent(Login.this, Register.class);
             startActivity(intent);
         });
-
-
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());

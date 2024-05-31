@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:title="Home"
+    <item
+         android:title="Cart"
+         android:layout_width = "wrap_content"
+         android:layout_height = "wrap_content"
+         android:icon="@drawable/baseline_add_shopping_cart_24"
+         android:id="@+id/cart"
+        />
+    <item
+        android:title="Home"
         android:icon="@drawable/baseline_add_home_24"
         android:id="@+id/home"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
         />
-    <item android:title="Profile"
+    <item
+        android:title="Profile"
         android:icon="@drawable/baseline_co_present_24"
         android:id="@+id/profile"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
         />
-    <item android:title="Settings"
+    <item
+        android:title="Settings"
         android:icon="@drawable/baseline_add_moderator_24"
         android:id="@+id/settings"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
         />
 </menu>
