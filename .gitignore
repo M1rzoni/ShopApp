@@ -1,6 +1,10 @@
 *.iml
+/app/config.properties
 .gradle
+/app/src/main/java/com/example/rma_2_mirza_sabanovic/ConfigReader.java
+/com/example/rma_2_mirza_sabanovic/ConfigReader.java
 /local.properties
+/app/src/main/java/com/example/rma_2_mirza_sabanovic/ChatBot.java
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
